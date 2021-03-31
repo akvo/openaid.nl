@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" fill="#01689B" fill-rule="nonzero" x="0" y="0" width="44" height="44"></rect>
+            <g id="Icons-/-Arrow-Down-/-White" transform="translate(10.000000, 10.000000)" fill="#FFFFFF">
+                <path d="M0.949163097,18.0885927 L0.949163097,18.0885927 C1.95714822,19.0564822 3.24712918,19.3858335 4.25411432,18.4189042 L12,10.9811345 L19.7458857,18.4189042 C20.7528708,19.3858335 22.0428518,19.0564822 23.0508369,18.0885927 C24.058822,17.1207032 24.401817,15.8829954 23.3948318,14.9151059 L13.8239731,5.72591711 C12.815988,4.75802763 11.184012,4.75802763 10.1760269,5.72591711 L0.605168174,14.9151059 C-0.401816964,15.8829954 -0.0588220262,17.1207032 0.949163097,18.0885927" id="Fill-1" transform="translate(12.000000, 12.000000) rotate(180.000000) translate(-12.000000, -12.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
