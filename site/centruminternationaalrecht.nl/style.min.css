@@ -1,0 +1,86 @@
+/*!
+ *  Font Awesome 3.2.1
+ *  the iconic font designed for Bootstrap
+ *  ------------------------------------------------------------------------------
+ *  The full suite of pictographic icons, examples, and documentation can be
+ *  found at http://fontawesome.io.  Stay up to date on Twitter at
+ *  http://twitter.com/fontawesome.
+ *
+ *  License
+ *  ------------------------------------------------------------------------------
+ *  - The Font Awesome font is licensed under SIL OFL 1.1 -
+ *    http://scripts.sil.org/OFL
+ *  - Font Awesome CSS, LESS, and SASS files are licensed under MIT License -
+ *    http://opensource.org/licenses/mit-license.html
+ *  - Font Awesome documentation licensed under CC BY 3.0 -
+ *    http://creativecommons.org/licenses/by/3.0/
+ *  - Attribution is no longer required in Font Awesome 3.0, but much appreciated:
+ *    "Font Awesome by Dave Gandy - http://fontawesome.io"
+ *
+ *  Author - Dave Gandy
+ *  ------------------------------------------------------------------------------
+ *  Email: dave@fontawesome.io
+ *  Twitter: http://twitter.com/byscuits
+ *  Work: Lead Product Designer @ Kyruus - http://kyruus.com
+ */
+/*!
+ *  Font Awesome 3.2.1
+ *  the iconic font designed for Bootstrap
+ *  ------------------------------------------------------------------------------
+ *  The full suite of pictographic icons, examples, and documentation can be
+ *  found at http://fontawesome.io.  Stay up to date on Twitter at
+ *  http://twitter.com/fontawesome.
+ *
+ *  License
+ *  ------------------------------------------------------------------------------
+ *  - The Font Awesome font is licensed under SIL OFL 1.1 -
+ *    http://scripts.sil.org/OFL
+ *  - Font Awesome CSS, LESS, and SASS files are licensed under MIT License -
+ *    http://opensource.org/licenses/mit-license.html
+ *  - Font Awesome documentation licensed under CC BY 3.0 -
+ *    http://creativecommons.org/licenses/by/3.0/
+ *  - Attribution is no longer required in Font Awesome 3.0, but much appreciated:
+ *    "Font Awesome by Dave Gandy - http://fontawesome.io"
+ *
+ *  Author - Dave Gandy
+ *  ------------------------------------------------------------------------------
+ *  Email: dave@fontawesome.io
+ *  Twitter: http://twitter.com/byscuits
+ *  Work: Lead Product Designer @ Kyruus - http://kyruus.com
+ */
+/*!
+ * Bootstrap v4.0.0 (https://getbootstrap.com)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+/*!
+ *  Font Awesome 3.2.1
+ *  the iconic font designed for Bootstrap
+ *  ------------------------------------------------------------------------------
+ *  The full suite of pictographic icons, examples, and documentation can be
+ *  found at http://fontawesome.io.  Stay up to date on Twitter at
+ *  http://twitter.com/fontawesome.
+ *
+ *  License
+ *  ------------------------------------------------------------------------------
+ *  - The Font Awesome font is licensed under SIL OFL 1.1 -
+ *    http://scripts.sil.org/OFL
+ *  - Font Awesome CSS, LESS, and SASS files are licensed under MIT License -
+ *    http://opensource.org/licenses/mit-license.html
+ *  - Font Awesome documentation licensed under CC BY 3.0 -
+ *    http://creativecommons.org/licenses/by/3.0/
+ *  - Attribution is no longer required in Font Awesome 3.0, but much appreciated:
+ *    "Font Awesome by Dave Gandy - http://fontawesome.io"
+ *
+ *  Author - Dave Gandy
+ *  ------------------------------------------------------------------------------
+ *  Email: dave@fontawesome.io
+ *  Twitter: http://twitter.com/davegandy
+ *  Work: Lead Product Designer @ Kyruus - http://kyruus.com
+ */
+/*!
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+@charset "UTF-8";:root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}*,::after,::before{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-ms-overflow-style:scrollbar;-webkit-tap-highlight-color:transparent}@-ms-viewport{width:device-width}footer,header,nav,section{display:block}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:1rem}h1,h2{margin-bottom:.5rem;color:inherit}p{margin-bottom:1rem}a,a:hover{text-decoration:underline}a{background-color:transparent;-webkit-text-decoration-skip:objects;color:#01689b}a:hover{color:#0056b3}a:not([href]):not([tabindex]){color:inherit;text-decoration:none}a:not([href]):not([tabindex]):focus,a:not([href]):not([tabindex]):hover{color:inherit;text-decoration:none}a:not([href]):not([tabindex]):focus{outline:0}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}h1{font-size:2.5rem}h2{font-size:2rem}.container-fluid{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.row{display:flex;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}.col-md-12,.col-md-4,.col-md-8,.col-sm-12,.col-sm-8,.col-xs-12{position:relative;width:100%;min-height:1px;padding-right:15px;padding-left:15px}.col-xs-12{flex:0 0 100%;max-width:100%}@media (min-width:576px){.col-sm-8{flex:0 0 66.66667%;max-width:66.66667%}.col-sm-12{flex:0 0 100%;max-width:100%}}@media (min-width:768px){.col-md-4{flex:0 0 33.33333%;max-width:33.33333%}.col-md-8{flex:0 0 66.66667%;max-width:66.66667%}.col-md-12{flex:0 0 100%;max-width:100%}}.clearfix::after{display:block;clear:both;content:""}.text-right{text-align:right!important}.autofit-col:first-child .card-item-first{border-radius:calc(.25rem - 1px) 0 0 calc(.25rem - 1px)}.autofit-col:last-child .card-item-last{border-radius:0 calc(.25rem - 1px) calc(.25rem - 1px) 0}body{-moz-osx-font-smoothing:grayscale;-ms-overflow-style:scrollbar;-webkit-font-smoothing:antialiased}.autofit-row{display:flex;flex-wrap:nowrap;width:100%}.autofit-col{display:flex;flex-direction:column;flex-shrink:0;min-height:0;position:relative}.autofit-col-expand{flex-grow:1;flex-shrink:1;min-width:3.125rem;word-wrap:break-word}.autofit-float>.autofit-col,.autofit-section{max-width:100%}.autofit-float{flex-wrap:wrap}.autofit-float>.autofit-col-end{margin-left:auto}#banner .row:first-child{display:block;display:flex}body:not(.controls-hidden) .portlet-journal-content .portlet.open .portlet-header .visible-interaction,body:not(.controls-hidden) .portlet-journal-content:focus .portlet .portlet-header .visible-interaction,body:not(.controls-hidden) .portlet-journal-content:hover .portlet .portlet-header .visible-interaction{visibility:visible}.hide-accessible{clip:rect(0 0 0 0)!important;position:absolute!important;-webkit-transform:scale(0);-webkit-transform-origin-x:0;-webkit-transform-origin-y:0;*position:fixed!important;_position:absolute!important}#wrapper{padding-top:2em;position:relative;padding-bottom:2em}.portlet-title-text{display:inline-block;margin-top:0;max-width:95%;overflow:hidden;text-overflow:ellipsis;vertical-align:top;white-space:nowrap}.portlet-content{padding:12px 10px 10px}@media only screen and (min-width:768px){.portlet .visible-interaction{display:none}}.portlet:hover .visible-interaction{display:block}@media only screen and (min-width:768px){.portlet:hover>.portlet-topper{opacity:1;-webkit-transform:translateY(-97%);-moz-transform:translateY(-97%);-ms-transform:translateY(-97%);-o-transform:translateY(-97%);transform:translateY(-97%)}.portlet:hover>.portlet-content-editable{border-color:transparent;border-top-left-radius:0;border-top-right-radius:0}}.portlet{margin-bottom:10px;position:relative}.portlet-barebone .portlet-content{padding:0}:not(.inline-item)>.loading-animation{margin-bottom:20px;margin-top:20px}@font-face{font-family:'RO-sans';src:url(/Users/daniel/Workspace/akvo/openaid.nl/site/centruminternationaalrecht.nl/o/bz-portal-theme/fonts/types/ROsanswebtextregular.eot%3F) format("eot"),url(/Users/daniel/Workspace/akvo/openaid.nl/site/centruminternationaalrecht.nl/o/bz-portal-theme/fonts/types/ROsanswebtextregular.woff) format("woff"),url(/Users/daniel/Workspace/akvo/openaid.nl/site/centruminternationaalrecht.nl/o/bz-portal-theme/fonts/types/ROsanswebtextregular.ttf) format("truetype")}@font-face{font-family:'RO-sans-bold';src:url(/Users/daniel/Workspace/akvo/openaid.nl/site/centruminternationaalrecht.nl/o/bz-portal-theme/fonts/types/ROsanswebtextbold.eot%3F) format("eot"),url(/Users/daniel/Workspace/akvo/openaid.nl/site/centruminternationaalrecht.nl/o/bz-portal-theme/fonts/types/ROsanswebtextbold.woff) format("woff"),url(/Users/daniel/Workspace/akvo/openaid.nl/site/centruminternationaalrecht.nl/o/bz-portal-theme/fonts/types/ROsanswebtextbold.ttf) format("truetype");font-weight:700;font-style:normal}@font-face{font-family:'RO-serif';src:url(/Users/daniel/Workspace/akvo/openaid.nl/site/centruminternationaalrecht.nl/o/bz-portal-theme/fonts/types/ROserifwebregular.eot%3F) format("eot"),url(/Users/daniel/Workspace/akvo/openaid.nl/site/centruminternationaalrecht.nl/o/bz-portal-theme/fonts/types/ROserifwebregular.woff) format("woff"),url(/Users/daniel/Workspace/akvo/openaid.nl/site/centruminternationaalrecht.nl/o/bz-portal-theme/fonts/types/ROserifwebregular.ttf) format("truetype");font-weight:400;font-style:normal}body,div,img{margin:0}body,div,h1,h2,img,p{border:0;padding:0;list-style:none;text-align:left;vertical-align:top}body{font-size:16px;-webkit-text-size-adjust:112.5%;background-color:#fff;font-weight:400;line-height:1.625;font-family:"RO-sans",Calibri,sans-serif;color:#000}@media screen and (min-width:1200px){body{font-size:18px}}h1,h2{font-size:1.625em;font-family:'RO-sans-bold';font-weight:700;line-height:1.1538em;margin:0 0 .7692em}@media screen and (min-width:768px){h1{font-size:1.75em;line-height:1.1429}}h2{margin:.952em 0 .2em;font-size:1.3125em;line-height:1.2381}@media screen and (min-width:992px){h2{margin:2em 0 .2em}}a:visited{color:#848}a:focus{outline:2px dotted #01689b;outline-offset:0}a:focus,a:hover{text-decoration:underline;color:#154273}p{margin:0 0 .8125em;line-height:1.375em}@media screen and (min-width:992px){p{line-height:1.625}}body.public-page #wrapper{padding-bottom:0;padding-top:0}.wrapper{margin-right:auto;margin-left:auto;max-width:1200px}@media screen and (min-width:1200px){.wrapper.container-fluid{padding-left:0;padding-right:0}}@media screen and (max-width:992px){.wrapper{max-width:992px}}@media screen and (max-width:768px){.wrapper{max-width:738px}}@media screen and (max-width:480px){.wrapper{max-width:450px}}@media screen and (max-width:320px){.wrapper{max-width:290px}}a::before,a::before:focus,a::before:hover{text-decoration:none}.portlet-barebone h2.portlet-title-text{display:none}.footer .portlet-language .portlet,.portlet-barebone .portlet-header,.site__login p{margin-bottom:0}.site__login{background:#f3f3f3}.site__login .wrapper{text-align:right;padding-right:15px;padding-left:15px}.header a{text-decoration:none}.header__logo__wrapper{margin:0 0 0 46%;width:auto}.header__logotype{display:inline-block;margin-left:-22px;margin-bottom:35px;width:50px}@media screen and (max-width:480px){.header__logotype{width:40px}}.header_logo_ministerie{font-family:"RO-serif",Georgia,serif;display:inline-block;margin-left:2%;margin-top:35px;font-size:.89em;line-height:1.25em;color:#000}@media screen and (max-width:768px){.header_logo_ministerie{width:55%;margin-left:2%;line-height:1.25em}}@media screen and (max-width:480px){.header_logo_ministerie{width:55%;margin-top:30px;font-size:.65em}}.header__site_id{background-color:#b2d7ee;height:35px;line-height:35px}.header__navigation{background:#007bc7;min-height:75px}@media screen and (min-width:992px){.header__navigation{padding:24px 0}}@media screen and (min-width:320px){.header__navigation{padding:22px 0 5px}}@media screen and (max-width:768px){.header__navigation{min-height:125px}}.footer{background-color:#007bc7;border:0;padding-bottom:0;clear:both;margin-top:70px;width:100%;float:left}.footer:after,.footer:before{content:" ";display:table}.footer *{color:#fff}@media screen and (max-width:480px){.footer{margin-left:0;margin-right:0}}.text-align-right{text-align:right}@media screen and (max-width:480px){.wrapper{max-width:450px}}@media screen and (max-width:320px){.wrapper{max-width:290px}}@media screen and (min-width:320px){.header__navigation{padding:22px 0 5px}}:lang(es-ES) .pagination-bar ul.pagination li a .icon-caret-right:before{content:'Siguiente'}:lang(es-ES) .pagination-bar ul.pagination li a .icon-caret-left:after{content:'Anterior'}:lang(es-ES) body.page-is-private #content .portlet-boundary:first-child .h2:first-child:after,:lang(es-ES) body.page-is-private #content .portlet-boundary:first-child h2.portlet-title-text:after,:lang(es-ES) body.page-is-private #content .portlet-boundary:first-child h2:first:after,:lang(es-ES) body.page-is-private h1.homepage__adt__title:after{content:'CONFIDENCIAL'}:lang(nl-NL) .pagination-bar ul.pagination li a .icon-caret-right:before{content:'Volgende'}:lang(nl-NL) .pagination-bar ul.pagination li a .icon-caret-left:after{content:'Vorige'}:lang(nl-NL) body.page-is-private #content .portlet-boundary:first-child .h2:first-child:after,:lang(nl-NL) body.page-is-private #content .portlet-boundary:first-child h2.portlet-title-text:after,:lang(nl-NL) body.page-is-private #content .portlet-boundary:first-child h2:first-child:after,:lang(nl-NL) body.page-is-private h1.homepage__adt__title:after{content:'VERTROUWELIJK'}:lang(en-US) body.page-is-private #content .aside .brick h2:after,:lang(en-US) body.page-is-private #content .block.social-share h2:after,:lang(en-US) body.page-is-private #content .bz-portlet-simple-form h2:after,:lang(en-US) body.page-is-private #content h2.asset-links-title:after,:lang(en-US) body.page-is-private #content h2.homepage__adt__title:after,:lang(nl-NL) body.page-is-private #content .aside .brick h2:after,:lang(nl-NL) body.page-is-private #content .block.social-share h2:after,:lang(nl-NL) body.page-is-private #content .bz-portlet-simple-form h2:after,:lang(nl-NL) body.page-is-private #content h2.asset-links-title:after,:lang(nl-NL) body.page-is-private #content h2.homepage__adt__title:after{content:''}:lang(en-GB) .pagination-bar ul.pagination li a .icon-caret-right:before{content:'Next'}:lang(en-GB) .pagination-bar ul.pagination li a .icon-caret-left:after{content:'Previous'}:lang(en-GB) body.page-is-private h1.homepage__adt__title:after{content:'CONFIDENTIAL'}:lang(en-US) .pagination-bar ul.pagination li a .icon-caret-right:before{content:'Next'}:lang(en-US) .pagination-bar ul.pagination li a .icon-caret-left:after{content:'Previous'}:lang(en-US) body.page-is-private #content .portlet-boundary:first-child .h2:first-child:after,:lang(en-US) body.page-is-private #content .portlet-boundary:first-child h2.portlet-title-text:first-child:after,:lang(en-US) body.page-is-private #content .portlet-boundary:first-child h2:first-child:after,:lang(en-US) body.page-is-private .portlet-boundary:first-child h1.homepage__adt__title:after{content:'CONFIDENTIAL'}:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{filter:none}
