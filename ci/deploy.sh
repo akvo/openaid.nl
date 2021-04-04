@@ -17,7 +17,7 @@ auth () {
 }
 
 push_image () {
-    prefix="eu.gcr.io/akvo-lumen/openaid.nl"
+    prefix="eu.gcr.io/akvo-lumen/openaid-nl"
     docker push "${prefix}/${1}:${CI_COMMIT}"
 }
 

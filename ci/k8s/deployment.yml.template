@@ -1,22 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: openaid.nl
+  name: openaid-nl
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: openaid.nl
+      app: openaid-nl
   template:
     metadata:
       labels:
-        app: openaid.nl
-        run: openaid.nl
-        openaid.nl-version: "${CI_COMMIT}"
+        app: openaid-nl
+        run: openaid-nl
+        openaid-nl-version: "${CI_COMMIT}"
     spec:
         containers:
-        - name: openaid.nl-frontend
-          image: eu.gcr.io/akvo-lumen/openaid.nl/frontend:${CI_COMMIT}
+        - name: openaid-nl-frontend
+          image: eu.gcr.io/akvo-lumen/openaid-nl/frontend:${CI_COMMIT}
           ports:
           - containerPort: 80
           resources:

@@ -2,8 +2,8 @@
 
 set -euo pipefail
 
-deployment_name="openaid.nl"
-deployment_version_label="openaid.nl-version"
+deployment_name="openaid-nl"
+deployment_version_label="openaid-nl-version"
 github_project="openaid.nl"
 notification="zulip"
 zulip_stream="K2 Engine"
